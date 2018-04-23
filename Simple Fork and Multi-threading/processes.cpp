@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// process to mimic ps -A | grep <arg> | wc -l
 int main(int argc, char *argv[]) //**argv
 {
 	int RD = 0;
