@@ -1,5 +1,4 @@
 # Simple Forking and Multi-Threading
-
 Processes uses forks to create threads that pipe into each other. <br />
 Processes's purpose is to mimic the command "ps -A | grep <arg> | wc -l". <br />
 <br />
